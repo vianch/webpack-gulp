@@ -1,0 +1,15 @@
+{
+  "name": "webpack-gulp",
+  "description": "Gulp task for angular 2 and webpack projects to transpile and bundle JavaScript/TypeScript sources with webpack based on ionic-gulp-webpack package",
+  "version": "2.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vianch/webpack-gulp.git"
+  },
+  "dependencies": {
+    "lodash.assign": "^4.0.6",
+    "q": "^1.4.1",
+    "webpack": "^1.12.14"
+  }
+}
